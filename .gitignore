@@ -2,7 +2,6 @@
 html5/nbproject/private/
 html5/build/
 html5/nbbuild/
-html5/public_html/
 html5/dist/
 html5/nbdist/
 html5/nbactions.xml
@@ -15,4 +14,3 @@ html5/nb-configuration.xml
 *.jar
 *.war
 *.ear
-
